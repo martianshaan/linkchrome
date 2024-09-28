@@ -123,7 +123,7 @@ Use these commands to create optimized production builds:
 
 To embed a video in your markdown file, follow this format:
 
-```markdown
+
 ## Video Demonstration
 
 Watch the video below to see how **LinkChrome** works:

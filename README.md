@@ -126,7 +126,7 @@ Use these commands to create optimized production builds:
 Watch the video below to see how **LinkChrome** works:
 https://drive.google.com/file/d/1KxdXTAqkbHwjHfCGbE2Qqy8fxhgb5mCn/view?usp=drive_link
 
-[![Watch the video](https://github.com/martianshaan/linkchrome/blob/master/screen-capture.webm)](https://github.com/martianshaan/linkchrome/blob/master/screen-capture.webm)
+[![Watch the video](https://github.com/martianshaan/linkchrome/blob/master/image.png)](https://github.com/martianshaan/linkchrome/blob/master/screen-capture.mp4)
 
 
 ## Contributing

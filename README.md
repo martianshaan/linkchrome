@@ -6,13 +6,18 @@ This README provides setup instructions, available commands, and an overview of 
 
 ## Table of Contents
 
-1. [Features](#features)
-2. [Getting Started](#getting-started)
-3. [Development Commands](#development-commands)
-4. [Build Commands](#build-commands)
-5. [How to Use LinkChrome](#how-to-use-linkchrome)
-6. [Embedding Videos](#embedding-videos)
-7. [Contributing](#contributing)
+- [linkchrome](#linkchrome)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Development Commands](#development-commands)
+  - [Build Commands](#build-commands)
+  - [How to Use LinkChrome](#how-to-use-linkchrome)
+  - [Video Demonstration](#video-demonstration)
+  - [Contributing](#contributing)
+    - [Steps to Contribute](#steps-to-contribute)
 
 ## Features
 
@@ -125,6 +130,9 @@ Use these commands to create optimized production builds:
 
 Watch the video below to see how **LinkChrome** works:
 https://drive.google.com/file/d/1KxdXTAqkbHwjHfCGbE2Qqy8fxhgb5mCn/view?usp=drive_link
+
+[Watch the video](https://github.com/martianshaan/linkchrome/blob/master/screen-capture.mp4)
+
 
 [![Watch the video](https://github.com/martianshaan/linkchrome/blob/master/image.png)](https://github.com/martianshaan/linkchrome/blob/master/screen-capture.mp4)
 

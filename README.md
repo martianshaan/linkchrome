@@ -119,15 +119,12 @@ Use these commands to create optimized production builds:
 
    To configure the extension settings, right-click on the extension icon and select `Options`.
 
-## Embedding Videos
-
-To embed a video in your markdown file, follow this format:
 
 
 ## Video Demonstration
 
 Watch the video below to see how **LinkChrome** works:
-
+https://drive.google.com/file/d/1KxdXTAqkbHwjHfCGbE2Qqy8fxhgb5mCn/view?usp=drive_link
 
 
 ## Contributing
